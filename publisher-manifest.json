@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "2639208b911296bb29270a41",
+  "owner": "rywytw3jm",
+  "repo": "page-d8241143980e2499d8714c7e",
+  "title": "GuGuEx",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d8241143980e2499d8714c7e",
+      "a": "GuGuEx",
+      "b": "clash verge免费节点订阅",
+      "entity": "GuGuEx",
+      "brand": "GuGuEx",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e240e499d492d1e385d19d42b080cd483ad74e747517588ce15785aba01c351d",
+      "content": {
+        "primary_entity": "GuGuEx",
+        "keyword1": "GuGuEx",
+        "keyword2": "clash verge免费节点订阅",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，导入订阅前确认版本与运行环境。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开启 GuGuEx 加速体验",
+          "AI_DESCRIPTION": "，提供多种订阅套餐与常规客户端导入方式。基础版适合轻度使用，旗舰版满足多设备与流媒体需求，团队版面向多人协作与高带宽场景。按月或按年付费均可，按年付更划算。",
+          "AI_FEATURES_INTRO": "围绕套餐、设备与订阅周期，快速梳理选择思路。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 15 元含 100GB 流量，旗舰版 35 元含 300GB，团队版 85 元含 1000GB。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按实际设备数量选档。",
+          "AI_FEATURE_TEXT_3": "三档均支持按年付费，年付分别为 150 元、350 元、850 元，长期使用更合适。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备定档位",
+          "AI_FEATURE_TITLE_3": "按周期看价格",
+          "AI_GUIDE_INTRO": "从套餐选择到客户端导入，三步完成订阅配置。",
+          "AI_GUIDE_TITLE": "使用指引",
+          "AI_HERO_INTRO": "GuGuEx 专注海外网络加速，提供按月与按年订阅套餐。基础版、旗舰版与团队版覆盖不同流量与设备需求，搭配常用客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "月付年付灵活切换",
+          "AI_HIGHLIGHT_3": "支持主流客户端导入订阅",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数与价格差异。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和设备数量，在基础版、旗舰版与团队版中选择合适档位。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本，查看该客户端对订阅导入的适配要求。",
+          "AI_STEP_TEXT_3": "依照所用客户端的订阅配置文档，粘贴订阅地址并更新节点列表。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "按客户端配置订阅",
+          "AI_VISUAL_TITLE": "GuGuEx 海外加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版提供 100GB 流量与 3 台设备，旗舰版提升至 300GB、5 台设备并加入 IPLC 专线，团队版为 1000GB、20 台设备且支持定制路由。",
+          "AI_FAQ_QUESTION_2": "年付比月付划算多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，约合月付价格的八三折。长期使用年付方案平均月成本更低。",
+          "AI_FAQ_QUESTION_3": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_3": "在客户端中找到订阅或配置导入入口，粘贴套餐附带的订阅地址，保存后更新节点列表即可。具体路径因客户端不同而有差异。",
+          "AI_FAQ_QUESTION_4": "设备数超限会怎样？",
+          "AI_FAQ_ANSWER_4": "同时在线设备数超过套餐上限时，新设备可能无法连接。可在客户端断开闲置设备，或升级到支持更多设备的套餐。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线，提供 VIP 高带宽节点与企业定制路由，适合小型团队统一配置多台办公设备。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "6d3bf365de9a1eef5b737b4835814bb4f73419b9737289d40a4a02049d61efc3",
+    "sitemap.xml": "4811009cf8090258a6b7bf772c10dc28ed52f519e50e975f6f9dd2564316ef4d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "5ca64d0dfd66b0059af087c9bef8a9539e57879a07bbc36262bb8043f1e1e7be"
+}
